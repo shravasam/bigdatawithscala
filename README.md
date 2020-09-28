@@ -52,10 +52,10 @@ $> sbt
 sbt> projects
 sbt> project <project name>
 
-# minimum JS optimizations
+# minimise
 sbt> fastCompile
 
-# maximum JS optimizations (Github page)
+# maximise (Github page)
 sbt> fullCompile
 sbt> exit
 
